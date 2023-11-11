@@ -1,4 +1,4 @@
-# Material Theme based on https://github.com/material-theme/vsc-material-theme
+# Material Theme ported from https://github.com/material-theme/vsc-material-theme
 # BTOP version created by moktavizen (https://github.com/moktavizen/material-btop)
 
 # Colors should be in 6 or 2 character hexadecimal or single spaced rgb decimal: "#RRGGBB", "#BW" or "0-255 0-255 0-255"

@@ -1,5 +1,16 @@
 # Material Theme BTOP
-Material BTOP theme based on https://github.com/material-theme/vsc-material-theme
+Material [BTOP](https://github.com/aristocratos/btop) theme ported from https://github.com/material-theme/vsc-material-theme
+
+![Themes preview](themes-preview.png)
+
+Themes from left to right:
+
+* Material Darker
+* Material Deepforest
+* Material Default
+* Material Ocean
+* Material Palenight
+* Material Lighter
 
 ## Installation
 
