@@ -15,7 +15,13 @@ git clone https://github.com/moktavizen/material-btop.git
 cp ./material-btop/material* ~/.config/btop/themes/
 ```
 
-### 3. Restart BTOP
+### 3. Remove the repository
+
+```bash
+rm -rf ./material-btop/
+```
+
+### 4. Restart BTOP
 
 ## License
 [MIT License](./LICENSE)
