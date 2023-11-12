@@ -1,17 +1,39 @@
 # Material Theme BTOP
 Material [BTOP](https://github.com/aristocratos/btop) theme ported from https://github.com/material-theme/vsc-material-theme
 
-![Themes preview](themes-preview.png)
-![Themes preview](themes-preview-1.png)
+![Themes preview](./previews/themes-preview.png)
 
 Themes from left to right:
 
-* Material Darker
-* Material Deepforest
-* Material Default
-* Material Ocean
-* Material Palenight
-* Material Lighter
+<details>
+    <summary>Material Darker</summary>
+    <img src="./previews/material-darker.png"/>
+</details>
+
+<details>
+    <summary>Material Deepforest</summary>
+    <img src="./previews/material-deepforest.png"/>
+</details>
+
+<details>
+    <summary>Material Default</summary>
+    <img src="./previews/material-default.png"/>
+</details>
+
+<details>
+    <summary>Material Ocean</summary>
+    <img src="./previews/material-ocean.png"/>
+</details>
+
+<details>
+    <summary>Material Palenight</summary>
+    <img src="./previews/material-palenight.png"/>
+</details>
+
+<details>
+    <summary>Material Lighter</summary>
+    <img src="./previews/material-lighter.png"/>
+</details><br>
 
 High Contrast variant provides background with more contrast.
 
