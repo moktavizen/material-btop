@@ -1,5 +1,5 @@
 # Material Theme BTOP
-Material [BTOP](https://github.com/aristocratos/btop) theme ported from https://github.com/material-theme/vsc-material-theme
+Material [BTOP](https://github.com/aristocratos/btop) theme ported from VS Code [Material Theme](https://github.com/material-theme/vsc-material-theme)
 
 ![Themes preview](./previews/themes-preview.png)
 
