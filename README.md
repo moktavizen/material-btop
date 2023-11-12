@@ -35,7 +35,7 @@ Themes from left to right:
     <img src="./previews/material-lighter.png"/>
 </details>
 
-High Contrast variant provides background with more contrast.
+> High Contrast variant provides background with more contrast.
 
 ## Installation
 
