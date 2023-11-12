@@ -13,6 +13,8 @@ Themes from left to right:
 * Material Palenight
 * Material Lighter
 
+High Contrast variant provides background with more contrast.
+
 ## Installation
 
 ### 1. Clone this repository
