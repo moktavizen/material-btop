@@ -33,7 +33,7 @@ Themes from left to right:
 <details>
     <summary>Material Lighter</summary>
     <img src="./previews/material-lighter.png"/>
-</details><br>
+</details>
 
 High Contrast variant provides background with more contrast.
 
