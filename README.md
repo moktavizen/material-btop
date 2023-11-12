@@ -2,6 +2,7 @@
 Material [BTOP](https://github.com/aristocratos/btop) theme ported from https://github.com/material-theme/vsc-material-theme
 
 ![Themes preview](themes-preview.png)
+![Themes preview](themes-preview-1.png)
 
 Themes from left to right:
 
