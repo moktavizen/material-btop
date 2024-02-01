@@ -10,7 +10,7 @@ Material [BTOP](https://github.com/aristocratos/btop) theme ported from VS Code 
 
 ## 🎨 Variants
 
-![material darker](./image/btop-themes-preview.webp)
+![material darker](./images/btop-themes-preview.webp)
 
 > [!NOTE]
 > High Contrast variants provide background with more contrast.
