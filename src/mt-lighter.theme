@@ -2,7 +2,7 @@
 # BTOP version created by moktavizen (https://github.com/moktavizen/material-btop)
 
 # Colors should be in 6 or 2 character hexadecimal or single spaced rgb decimal: "#RRGGBB", "#BW" or "0-255 0-255 0-255"
-# example for white: "#000000", "#ff" or "255 255 255".
+# example for white: "#FFFFFF", "#ff" or "255 255 255".
 
 # All graphs and meters can be gradients
 # For single color graphs leave "mid" and "end" variable empty.
@@ -13,10 +13,10 @@
 theme[main_bg]="#FAFAFA"
 
 # Main text color
-theme[main_fg]="#90A4AE"
+theme[main_fg]="#627883"
 
 # Title color for boxes
-theme[title]="#627883"
+theme[title]="#000000"
 
 # Highlight color for keyboard shortcuts
 theme[hi_fg]="#E53935"
@@ -28,10 +28,10 @@ theme[selected_bg]="#E53935"
 theme[selected_fg]="#FFFFFF"
 
 # Color of inactive/disabled text
-theme[inactive_fg]="#90A4AE"  
+theme[inactive_fg]="#627883"  
 
 # Color of text appearing on top of graphs, i.e uptime and current network graph scaling
-theme[graph_text]="#90A4AE"
+theme[graph_text]="#627883"
 
 # Misc colors for processes box including mini cpu graphs, details memory graph and details status text
 theme[proc_misc]="#91B859"
@@ -49,7 +49,7 @@ theme[net_box]="#9C3EDA"
 theme[proc_box]="#E53935"
 
 # Box divider line and small boxes line color
-theme[div_line]="#90A4AE"
+theme[div_line]="#627883"
 
 # Temperature graph colors
 theme[temp_start]="#6182B8"
